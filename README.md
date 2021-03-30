@@ -1,16 +1,24 @@
-### Hi there 👋
+# 🌠 Hello World
+Hola mi nombre es Jesus Crespo, soy desarrollador web frontend junior, mi meta es lograr ser un desarrollador full-stack, asi que me queda bastante por aprender
 
-<!--
-**JesusCrespo2823/JesusCrespo2823** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔖 Conocimientos
+- 🚩 HTML
+- 🚩 CSS
+- 🚩 Javascript
+- 🚩 Python
+- 🚩 Git
+- 🚩 SQLite3
 
-Here are some ideas to get you started:
+## 💡 Aprendiendo
+- 🔧 Django
+- 🔧 Vuejs
+- 🔧 Mongodb
+- 🔧 C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/JesusCrespo2823">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=JesusCrespo2823&show_icons=true&theme=radical" width="50%"/>
+</a>
+
+<a href="https://github.com/JesusCrespo2823">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusCrespo2823&layout=compact&theme=radical" width="50%" />
+</a>
