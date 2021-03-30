@@ -16,7 +16,7 @@ Hola mi nombre es Jesus Crespo, soy desarrollador web frontend junior, mi meta e
 - 🔧 C++
 
 <a href="https://github.com/JesusCrespo2823">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=JesusCrespo2823&show_icons=true&theme=radical" width="45%"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=JesusCrespo2823&show_icons=true&theme=radical" width="48%"/>
 </a>
 
 <a href="https://github.com/JesusCrespo2823">
